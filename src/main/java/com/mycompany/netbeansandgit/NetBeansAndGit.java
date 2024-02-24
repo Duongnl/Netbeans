@@ -11,6 +11,8 @@ package com.mycompany.netbeansandgit;
 public class NetBeansAndGit {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Xin chao cac ban");
+        System.out.println("Xin chao cac ban");
+        System.out.println("Xin chao cac ban");
     }
 }
